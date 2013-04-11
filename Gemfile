@@ -15,5 +15,4 @@ group :assets do
   gem 'uglifier', '>= 1.0.3'
 end
 
-gem 'jquery-rails'
 gem 'iqvoc', :git => 'git://github.com/innoq/iqvoc.git', :branch => 'concept_scheme'
