@@ -1,0 +1,76 @@
+<http://boden-exam.iqvoc.net/baume> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-exam.iqvoc.net/baume> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bäume"@de .
+<http://boden-exam.iqvoc.net/baume> <http://www.w3.org/2004/02/skos/core#prefLabel> "Trees"@en .
+<http://boden-exam.iqvoc.net/baume> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-exam.iqvoc.net/scheme> .
+<http://boden-exam.iqvoc.net/boden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-exam.iqvoc.net/boden> <http://www.w3.org/2004/02/skos/core#prefLabel> "Boden"@de .
+<http://boden-exam.iqvoc.net/boden> <http://www.w3.org/2004/02/skos/core#prefLabel> "soil"@en .
+<http://boden-exam.iqvoc.net/boden> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-exam.iqvoc.net/scheme> .
+<http://boden-exam.iqvoc.net/bodenbiologie> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-exam.iqvoc.net/bodenbiologie> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bodenbiologie"@de .
+<http://boden-exam.iqvoc.net/bodenbiologie> <http://www.w3.org/2004/02/skos/core#prefLabel> "soil biology"@en .
+<http://boden-exam.iqvoc.net/bodenbiologie> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-exam.iqvoc.net/scheme> .
+<http://boden-exam.iqvoc.net/bodenfauna> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-exam.iqvoc.net/bodenfauna> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bodenfauna"@de .
+<http://boden-exam.iqvoc.net/bodenfauna> <http://www.w3.org/2004/02/skos/core#prefLabel> "soil fauna"@en .
+<http://boden-exam.iqvoc.net/bodenfauna> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-exam.iqvoc.net/scheme> .
+<http://boden-exam.iqvoc.net/bodenfestphase> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-exam.iqvoc.net/bodenfestphase> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bodenfestphase"@de .
+<http://boden-exam.iqvoc.net/bodenfestphase> <http://www.w3.org/2004/02/skos/core#prefLabel> "soil solid phase"@en .
+<http://boden-exam.iqvoc.net/bodenfestphase> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-exam.iqvoc.net/scheme> .
+<http://boden-exam.iqvoc.net/bodenfeststoff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-exam.iqvoc.net/bodenfeststoff> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bodenfeststoff"@de .
+<http://boden-exam.iqvoc.net/bodenfeststoff> <http://www.w3.org/2004/02/skos/core#prefLabel> "soil solid substance"@en .
+<http://boden-exam.iqvoc.net/bodenfeststoff> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-exam.iqvoc.net/scheme> .
+<http://boden-exam.iqvoc.net/bodenlosung> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-exam.iqvoc.net/bodenlosung> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bodenlösung"@de .
+<http://boden-exam.iqvoc.net/bodenlosung> <http://www.w3.org/2004/02/skos/core#prefLabel> "soil solution"@en .
+<http://boden-exam.iqvoc.net/bodenlosung> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-exam.iqvoc.net/scheme> .
+<http://boden-exam.iqvoc.net/bodenluft> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-exam.iqvoc.net/bodenluft> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bodenluft"@de .
+<http://boden-exam.iqvoc.net/bodenluft> <http://www.w3.org/2004/02/skos/core#prefLabel> "soil air"@en .
+<http://boden-exam.iqvoc.net/bodenluft> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-exam.iqvoc.net/scheme> .
+<http://boden-exam.iqvoc.net/deposition> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-exam.iqvoc.net/deposition> <http://www.w3.org/2004/02/skos/core#prefLabel> "Deposition"@de .
+<http://boden-exam.iqvoc.net/deposition> <http://www.w3.org/2004/02/skos/core#prefLabel> "deposition"@en .
+<http://boden-exam.iqvoc.net/deposition> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-exam.iqvoc.net/scheme> .
+<http://boden-exam.iqvoc.net/grundwasser> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-exam.iqvoc.net/grundwasser> <http://www.w3.org/2004/02/skos/core#prefLabel> "Grundwasser"@de .
+<http://boden-exam.iqvoc.net/grundwasser> <http://www.w3.org/2004/02/skos/core#prefLabel> "groundwater"@en .
+<http://boden-exam.iqvoc.net/grundwasser> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-exam.iqvoc.net/scheme> .
+<http://boden-exam.iqvoc.net/luft> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-exam.iqvoc.net/luft> <http://www.w3.org/2004/02/skos/core#prefLabel> "Luft"@de .
+<http://boden-exam.iqvoc.net/luft> <http://www.w3.org/2004/02/skos/core#prefLabel> "air"@en .
+<http://boden-exam.iqvoc.net/luft> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-exam.iqvoc.net/scheme> .
+<http://boden-exam.iqvoc.net/moose> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-exam.iqvoc.net/moose> <http://www.w3.org/2004/02/skos/core#prefLabel> "Moose"@de .
+<http://boden-exam.iqvoc.net/moose> <http://www.w3.org/2004/02/skos/core#prefLabel> "mosses"@en .
+<http://boden-exam.iqvoc.net/moose> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-exam.iqvoc.net/scheme> .
+<http://boden-exam.iqvoc.net/niederschlag> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-exam.iqvoc.net/niederschlag> <http://www.w3.org/2004/02/skos/core#prefLabel> "Niederschlag"@de .
+<http://boden-exam.iqvoc.net/niederschlag> <http://www.w3.org/2004/02/skos/core#prefLabel> "precipitation"@en .
+<http://boden-exam.iqvoc.net/niederschlag> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-exam.iqvoc.net/scheme> .
+<http://boden-exam.iqvoc.net/oberflachenwasser> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-exam.iqvoc.net/oberflachenwasser> <http://www.w3.org/2004/02/skos/core#prefLabel> "Oberflächenwasser"@de .
+<http://boden-exam.iqvoc.net/oberflachenwasser> <http://www.w3.org/2004/02/skos/core#prefLabel> "surface water"@en .
+<http://boden-exam.iqvoc.net/oberflachenwasser> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-exam.iqvoc.net/scheme> .
+<http://boden-exam.iqvoc.net/pflanzen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-exam.iqvoc.net/pflanzen> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pflanzen"@de .
+<http://boden-exam.iqvoc.net/pflanzen> <http://www.w3.org/2004/02/skos/core#prefLabel> "plants"@en .
+<http://boden-exam.iqvoc.net/pflanzen> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-exam.iqvoc.net/scheme> .
+<http://boden-exam.iqvoc.net/relief> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-exam.iqvoc.net/relief> <http://www.w3.org/2004/02/skos/core#prefLabel> "Relief"@de .
+<http://boden-exam.iqvoc.net/relief> <http://www.w3.org/2004/02/skos/core#prefLabel> "relief"@en .
+<http://boden-exam.iqvoc.net/relief> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-exam.iqvoc.net/scheme> .
+<http://boden-exam.iqvoc.net/sickerwasser> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-exam.iqvoc.net/sickerwasser> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sickerwasser"@de .
+<http://boden-exam.iqvoc.net/sickerwasser> <http://www.w3.org/2004/02/skos/core#prefLabel> "seepage water, leachate"@en .
+<http://boden-exam.iqvoc.net/sickerwasser> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-exam.iqvoc.net/scheme> .
+<http://boden-exam.iqvoc.net/troposphare> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-exam.iqvoc.net/troposphare> <http://www.w3.org/2004/02/skos/core#prefLabel> "Troposphäre"@de .
+<http://boden-exam.iqvoc.net/troposphare> <http://www.w3.org/2004/02/skos/core#prefLabel> "troposphere"@en .
+<http://boden-exam.iqvoc.net/troposphare> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-exam.iqvoc.net/scheme> .
+<http://boden-exam.iqvoc.net/vegetation> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-exam.iqvoc.net/vegetation> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vegetation"@de .
+<http://boden-exam.iqvoc.net/vegetation> <http://www.w3.org/2004/02/skos/core#prefLabel> "vegetation"@en .
+<http://boden-exam.iqvoc.net/vegetation> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-exam.iqvoc.net/scheme> .
