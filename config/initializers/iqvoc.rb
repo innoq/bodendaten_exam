@@ -1,9 +1,11 @@
 Iqvoc.config do |config|
   config.register_settings({
-    "title" => "Bodendaten Exam"
+    "title" => "Boden Exam",
+    "languages.pref_labeling" => ["de", "en"],
+    "languages.further_labelings.Labeling::SKOS::AltLabel" => ["de", "en"],
+    "note_languages" => ["de"]
   })
 end
-
 # Iqvoc::Concept.base_class_name = "MyConceptClass"
 # Iqvoc::Concept.pref_labeling_class_name = "MyLabelingClass"
 # Iqvoc::Concept.further_relation_class_names << "MyConceptRelationClass"
