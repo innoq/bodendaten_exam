@@ -1,8 +1,3 @@
 # Be sure to restart your server when you modify this file.
 
-Iqvoc::BodendatenExam::Application.config.session_store :cookie_store, key: '_bodendaten_exam_session'
-
-# Use the database for sessions instead of the cookie-based default,
-# which shouldn't be used to store highly confidential information
-# (create the session table with "rails generate session_migration")
-# Iqvoc::BodendatenExam::Application.config.session_store :active_record_store
+Rails.application.config.session_store :cookie_store, key: '_iqvoc/bodendaten_exam_session'
