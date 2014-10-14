@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 ruby '2.1.2'
 
-gem 'iqvoc', '~> 4.5.1'
+gem 'iqvoc', github: 'innoq/iqvoc'
 
 group :development, :test do
   gem 'mysql2'
