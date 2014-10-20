@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/innoq/iqvoc.git
-  revision: 1261006cf5bfb5252a38a24577f65a290d6ccf43
+  revision: 95e7467416d578f54da598b1cd3ffb7e1246e399
   specs:
     iqvoc (4.5.1)
       apipie-rails
@@ -87,7 +87,7 @@ GEM
     equivalent-xml (0.5.1)
       nokogiri (>= 1.4.3)
     erubis (2.7.0)
-    execjs (2.2.1)
+    execjs (2.2.2)
     faraday (0.9.0)
       multipart-post (>= 1.2, < 3)
     ffi (1.9.6)
@@ -135,7 +135,7 @@ GEM
     mail (2.6.1)
       mime-types (>= 1.16, < 3)
     maruku (0.7.2)
-    mime-types (2.4.1)
+    mime-types (2.4.2)
     mini_portile (0.6.0)
     minitest (5.4.2)
     multi_json (1.10.1)
