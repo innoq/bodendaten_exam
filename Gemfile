@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby '2.1.2'
+ruby '2.2.0'
 
 gem 'iqvoc', github: 'innoq/iqvoc'
 
@@ -10,9 +10,4 @@ end
 group :production do
   gem 'pg'
   gem 'rails_12factor'
-end
-
-group :assets do
-  gem 'sass-rails', '~> 4.0.3'
-  gem 'uglifier', '>= 1.0.3'
 end
